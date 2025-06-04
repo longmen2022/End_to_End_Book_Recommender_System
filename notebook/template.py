@@ -5,7 +5,8 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
-project_name = "books_recommender"
+project_name = "C:/Users/men_l/Downloads/End_to_End_Book_Recommender_System/books_recommender"
+
 
 
 list_of_files = [
