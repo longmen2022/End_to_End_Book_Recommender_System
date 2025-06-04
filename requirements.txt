@@ -1,3 +1,6 @@
-scikit-learn
-pandas
-numpy 
+scikit-learn  # Machine learning library for Python
+pandas        # Data analysis and manipulation library
+numpy         # Numerical computing library
+PyYAML        # YAML file parser for configuration files
+streamlit
+-e .          # Editable mode (install the current package locally)
