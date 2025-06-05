@@ -2,7 +2,8 @@
 from setuptools import setup, find_packages
 
 # Open the README.md file to use as the long description for the package
-with open("README.md", "r", encoding="utf-8") as f:
+with open(r"C:\Users\men_l\Downloads\End_to_End_Book_Recommender_System\README.md", "r", encoding="utf-8") as f:
+
     long_description = f.read()  # Read the content of README.md into a variable
 
 # Define key variables for project metadata (these can be modified as needed)
